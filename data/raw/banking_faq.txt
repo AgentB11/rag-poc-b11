@@ -1,0 +1,19 @@
+# Banking FAQ
+
+**What is a savings account?**
+A savings account is a deposit account held at a bank that pays a modest rate of interest on the balance. It is designed for individuals to safely store money while retaining easy access for withdrawals, unlike accounts meant purely for long-term investment.
+
+**What is a fixed deposit (FD)?**
+A fixed deposit is a financial instrument where a customer deposits a lump sum of money with a bank for a fixed tenure, ranging from a few months to several years, in exchange for a fixed, typically higher, interest rate than a savings account. Withdrawing before maturity usually incurs a penalty.
+
+**What is KYC?**
+KYC, or Know Your Customer, is the mandatory process banks use to verify the identity and address of a customer before opening an account or providing financial services. It typically requires a government-issued photo ID and proof of address, and exists to prevent fraud, money laundering, and identity theft.
+
+**What is an overdraft facility?**
+An overdraft facility allows an account holder to withdraw more money than is currently available in their account, up to a pre-approved limit. The bank charges interest only on the overdrawn amount, and it is commonly used by businesses to manage short-term cash flow gaps.
+
+**What is the difference between NEFT and RTGS?**
+NEFT (National Electronic Funds Transfer) and RTGS (Real Time Gross Settlement) are both electronic methods for transferring money between bank accounts. NEFT processes transfers in batches and is typically used for smaller amounts, while RTGS settles transactions individually and in real time, making it suitable for high-value, time-sensitive transfers.
+
+**What is a credit score?**
+A credit score is a numerical representation of a person's creditworthiness, calculated from their credit history, including repayment behavior, outstanding debt, and length of credit history. Banks use this score to decide whether to approve loan or credit card applications and to set interest rates.

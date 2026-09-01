@@ -1,0 +1,12 @@
+chromadb
+numpy<2
+torch==2.2.2
+transformers<4.45
+sentence-transformers==3.0.1
+pymupdf
+pypdf
+opencv-python-headless==4.10.0.84
+easyocr
+pillow
+langchain-text-splitters
+ollama
